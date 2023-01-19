@@ -8,7 +8,7 @@ const jonasArray = [
 
 const jonas = {
   firstName: 'Jonas',
-  lastName: 'Schmedtman',
+  surName: 'Schmedtman',
   age: 2037 - 1991,
   job: 'teacher',
   friend: ['Michael', 'Peter', 'Steven'],
