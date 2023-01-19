@@ -12,3 +12,5 @@ const printForecast = function (arr) {
 };
 
 printForecast(data1);
+
+console.log('Git file');

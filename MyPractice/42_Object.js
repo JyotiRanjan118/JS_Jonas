@@ -15,7 +15,9 @@ const jonas = {
 };
 
 console.log(jonas);
-
+console.log('-----');
+console.log(jonas.friend[0]);
+console.log('-----');
 console.log(jonas.firstName); //Dot notation
 console.log(jonas['lastName']); //Bracket notation
 
@@ -23,9 +25,9 @@ const nameKey = 'Name';
 console.log(jonas['first' + nameKey]);
 console.log(jonas['last' + nameKey]);
 
-const interestedIn = prompt(
-  'What do you want to know about Jonas ? Choose between firstname,lastname,age,job and friend'
-);
+// const interestedIn = prompt(
+//   'What do you want to know about Jonas ? Choose between firstname,lastname,age,job and friend'
+// );
 
 console.log(jonas[interestedIn]);
 
