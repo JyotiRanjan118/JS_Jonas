@@ -12,10 +12,12 @@ const jonas = {
   age: 2037 - 1991,
   job: 'teacher',
   friend: ['Michael', 'Peter', 'Steven'],
-  middleName: 'ranjan',
+  middle: 'ranjan',
 };
 
 console.log(jonas.surName);
 console.log(jonas.middleName);
 console.log('-----');
 console.log(jonas.friend[0]);
+console.log(jonas.age);
+console.log(jonas.firstName);
