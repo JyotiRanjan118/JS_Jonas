@@ -12,7 +12,7 @@ const jonas = {
   age: 2037 - 1991,
   job: 'teacher',
   friend: ['Michael', 'Peter', 'Steven'],
-  middleName: 'ranjan'
+  middleName: 'ranjan',
 };
 
 console.log(jonas);
