@@ -6,7 +6,7 @@ const jonasArray = [
   ['Michael', 'Peter', 'Steven'],
 ];
 
-const jonas = {
+const nath = {
   firstName: 'Jonas',
   surName: 'Schmedtman',
   age: 2037 - 1991,
