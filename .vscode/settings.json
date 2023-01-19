@@ -1,3 +1,4 @@
 {
-  "git.autoStash": false
+  "git.autoStash": false,
+  "git.mergeEditor": true
 }
