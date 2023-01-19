@@ -15,7 +15,7 @@ const jonas = {
   middleName: 'ranjan',
 };
 
-console.log(jonas);
+console.log(jonas.surName);
 console.log(jonas.middleName);
 console.log('-----');
 console.log(jonas.friend[0]);
